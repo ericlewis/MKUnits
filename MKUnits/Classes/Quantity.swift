@@ -154,7 +154,7 @@ public func * (lhs: NSNumber, rhs: Quantity) -> Quantity {
 
 extension Quantity: CustomStringConvertible {
     public var description: String {
-        return "\(self.amount) \(self.unit)"
+        return "\(self.amount)\(self.unit)"
     }
 }
 

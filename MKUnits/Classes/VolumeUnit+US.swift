@@ -35,7 +35,7 @@ extension VolumeUnit {
     public static var us_hogshead: VolumeUnit {
         return VolumeUnit(
             name: "US hogshead",
-            symbol: "US hhd",
+            symbol: "hhd",
             ratio: NSDecimalNumber(mantissa: 238480942392, exponent: -9, isNegative: false)
         )
     }
@@ -48,7 +48,7 @@ extension VolumeUnit {
     public static var us_barrel: VolumeUnit {
         return VolumeUnit(
             name: "US barrel",
-            symbol: "US bbl",
+            symbol: "bbl",
             ratio: NSDecimalNumber(mantissa: 119240471196, exponent: -9, isNegative: false)
         )
     }
@@ -61,7 +61,7 @@ extension VolumeUnit {
     public static var us_gallon: VolumeUnit {
         return VolumeUnit(
             name: "US gallon",
-            symbol: "US gal",
+            symbol: "gal",
             ratio: NSDecimalNumber(mantissa: 3785411784, exponent: -9, isNegative: false)
         )
     }
@@ -74,7 +74,7 @@ extension VolumeUnit {
     public static var us_quart: VolumeUnit {
         return VolumeUnit(
             name: "US quart",
-            symbol: "US qt",
+            symbol: "qt",
             ratio: NSDecimalNumber(mantissa: 946352946, exponent: -9, isNegative: false)
         )
     }
@@ -87,7 +87,7 @@ extension VolumeUnit {
     public static var us_pint: VolumeUnit {
         return VolumeUnit(
             name: "US pint",
-            symbol: "US pt",
+            symbol: "pt",
             ratio: NSDecimalNumber(mantissa: 473176473, exponent: -9, isNegative: false)
         )
     }
@@ -100,7 +100,7 @@ extension VolumeUnit {
     public static var us_cup: VolumeUnit {
         return VolumeUnit(
             name: "US cup",
-            symbol: "US cp",
+            symbol: "cp",
             ratio: NSDecimalNumber(mantissa: 2365882365, exponent: -10, isNegative: false)
         )
     }
@@ -113,7 +113,7 @@ extension VolumeUnit {
     public static var us_gill: VolumeUnit {
         return VolumeUnit(
             name: "US gill",
-            symbol: "US gi",
+            symbol: "gi",
             ratio: NSDecimalNumber(mantissa: 11829411825, exponent: -11, isNegative: false)
         )
     }
@@ -139,7 +139,7 @@ extension VolumeUnit {
     public static var us_tablespoon: VolumeUnit {
         return VolumeUnit(
             name: "US tablespoon",
-            symbol: "US tbsp",
+            symbol: "tbsp",
             ratio: NSDecimalNumber(mantissa: 1478676478125, exponent: -14, isNegative: false)
         )
     }
@@ -152,7 +152,7 @@ extension VolumeUnit {
     public static var us_teaspoon: VolumeUnit {
         return VolumeUnit(
             name: "US teaspoon",
-            symbol: "US tsp",
+            symbol: "tsp",
             ratio: NSDecimalNumber(mantissa: 492892159375, exponent: -14, isNegative: false)
         )
     }
@@ -165,7 +165,7 @@ extension VolumeUnit {
     public static var us_fluidram: VolumeUnit {
         return VolumeUnit(
             name: "US fluidram",
-            symbol: "US fl dr",
+            symbol: "dr",
             ratio: NSDecimalNumber(mantissa: 36966911953125, exponent: -16, isNegative: false)
         )
     }
@@ -178,7 +178,7 @@ extension VolumeUnit {
     public static var us_minim: VolumeUnit {
         return VolumeUnit(
             name: "US minim",
-            symbol: "US min",
+            symbol: "min",
             ratio: NSDecimalNumber(mantissa: 61611519921875, exponent: -18, isNegative: false)
         )
     }
