@@ -126,7 +126,7 @@ extension VolumeUnit {
     public static var us_fluidounce: VolumeUnit {
         return VolumeUnit(
             name: "US fluid ounce",
-            symbol: "US fl oz",
+            symbol: "oz",
             ratio: NSDecimalNumber(mantissa: 295735295625, exponent: -13, isNegative: false)
         )
     }
